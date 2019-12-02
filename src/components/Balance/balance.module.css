@@ -1,0 +1,21 @@
+.balance {
+  margin: 0 auto;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  font-size: 18px;
+
+}
+
+.total__deposit {
+  color: green;
+}
+
+.total__withdraw {
+  color: red;
+}
+
+.total__balance {
+  color: #5c6975;
+}
