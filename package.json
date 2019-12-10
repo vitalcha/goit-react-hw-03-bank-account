@@ -2,8 +2,9 @@
   "name": "goit-react-hw-03-bank-account",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vitalcha.github.io/goit-react-hw-03-bank-account",
   "dependencies": {
+    "gh-pages": "^2.1.1",
+    "homepage": "https://vitalcha.github.io/goit-react-hw-03-bank-account",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
